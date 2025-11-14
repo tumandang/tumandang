@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on **University Malaysia Pahang** as Banchelor Software Developer Student<br>🌱 I’m currently learning **React JS**
+🔭 I’m currently studying on **University Malaysia Pahang** as Banchelor Software Developer Student<br>🌱 I’m currently learning **Next JS**
 
 <br clear="both">
 
